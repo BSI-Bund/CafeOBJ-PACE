@@ -8,7 +8,7 @@ This repository contains a CafeOBJ proof that is described in the paper
 How to run:
 
 1. Download CafeOBJ from 
-   http://www.ldl.jaist.ac.jp/cafeobj/download.html
+   https://cafeobj.org/
 
    You need: CafeOBJ system Version 1.4.8(PigNose0.99,p33)
 
